@@ -42,6 +42,12 @@ pragma solidity ^0.5.0
 
 ## Example of running
 
+### Deploy contract
+
+Deployed contract:
+
+![Screenshot](Execution_Results/deployed_contract.JPG)
+
 ### Use the `setAccounts` function to define the authorized Ethereum address that will be able to withdraw funds from your contract.
 
 ```
@@ -59,7 +65,7 @@ Transaction 1: Send 1 ether as wei.
 
 ![Screenshot](Execution_Results/deposit_1eth.JPG)
 
-New cccount balance:
+New contract balance:
 
 ![Screenshot](Execution_Results/deposit_1eth_result.JPG)
 
@@ -67,7 +73,7 @@ Transaction 2: Send 5 ether as wei.
 
 ![Screenshot](Execution_Results/deposit_5eth.JPG)
 
-New cccount balance:
+New contract balance:
 
 ![Screenshot](Execution_Results/deposit_5eth_result.JPG)
 
@@ -75,7 +81,7 @@ Transaction 3: Send 10 ether.
 
 ![Screenshot](Execution_Results/deposit_10eth.JPG)
 
-New cccount balance:
+New contract balance:
 
 ![Screenshot](Execution_Results/deposit_10eth_result.JPG)
 
