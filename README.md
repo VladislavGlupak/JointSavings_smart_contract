@@ -42,9 +42,7 @@ pragma solidity ^0.5.0
 
 ## Example of running
 
-### Deploy contract
-
-Deployed contract:
+### Deployed contract
 
 ![Screenshot](Execution_Results/deployed_contract.JPG)
 
