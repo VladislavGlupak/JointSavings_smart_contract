@@ -1,0 +1,20 @@
+    1  . code
+    2  . code
+    3  code .
+    4  git add .
+    5  git commit -m "adding readme"
+    6  git push
+    7  git add .
+    8  git commit -m "fix typos in the readme"
+    9  git push
+   10  git add .
+   11  git commit -m "fix readme"
+   12  git push
+   13  git add .
+   14  git commit -m "fix readme"
+   15  git push
+   16  git status
+   17  git add .
+   18  git commit -m "rm extra files"
+   19  git push
+   20  history 50 > history.txt
