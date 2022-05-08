@@ -85,7 +85,7 @@ New contract balance:
 
 ### Test the contract’s withdrawal functionality by withdrawing 5 ether into `accountOne` and 10 ether into `accountTwo`.
 
-Withdrawing 5 ether into `accountOne`:
+Withdrawing 5 ether into `accountOne` - `0x0c0669Cd5e60a6F4b8ce437E4a4A007093D368Cb`:
 
 ![Screenshot](Execution_Results/with_5eth_acc1.JPG)
 
@@ -93,7 +93,7 @@ Last Withdrawing account and amount:
 
 ![Screenshot](Execution_Results/last_with_5_acc1.JPG)
 
-Withdrawing 10 ether into `accountTwo`, last Withdrawing account and amount and contract balance:
+Withdrawing 10 ether into `accountTwo` - `0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0`, last Withdrawing account and amount and contract balance:
 
 ![Screenshot](Execution_Results/with_10eth_acc2.JPG)
 
